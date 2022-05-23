@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oneideals.github.io</id>
+    <title>小豌豆子的自留地</title>
+    <updated>2022-05-23T17:10:52.439Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oneideals.github.io"/>
+    <link rel="self" href="https://oneideals.github.io/atom.xml"/>
+    <subtitle>不忘初心 牢记使命</subtitle>
+    <logo>https://oneideals.github.io/images/avatar.png</logo>
+    <icon>https://oneideals.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 小豌豆子的自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[Listary 第三方集成有多强？用过之后就回不去了]]></title>
+        <id>https://oneideals.github.io/post/listary-di-san-fang-ji-cheng-you-duo-qiang-yong-guo-zhi-hou-jiu-hui-bu-qu-liao/</id>
+        <link href="https://oneideals.github.io/post/listary-di-san-fang-ji-cheng-you-duo-qiang-yong-guo-zhi-hou-jiu-hui-bu-qu-liao/">
+        </link>
+        <updated>2022-05-23T15:57:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1NjU0MQ==&amp;mid=2247530875&amp;idx=1&amp;sn=e2c699c8252e8dfc21ad9240c1d78bc3&amp;chksm=f9920fa9cee586bf580a8a2e1ab856c528d9ba885f0d795176b36c06cc33ab59d3bbbc0fdf6e&amp;mpshare=1&amp;scene=1&amp;srcid=0520wDqu0brmn8fClfuQ3JER&amp;sharer_sharetime=1653048486788&amp;sharer_shareid=25b62bc711d855a76b4e0c7a5f957628#rd">mp.weixin.qq.com</a>正版软件 数码荔枝</p>
+<figure data-type="image" tabindex="1"><img src="https://image.cubox.pro/article/2021072209205890071/44955.jpg" alt="" loading="lazy"></figure>
+<p>最近发了几篇关于 Listary 的文章，粉丝留言问第三方集成功能的还挺多。</p>
+<p>今天就搭配数码荔枝在售的 XYplorer、Directory Opus、Bandizip 三款软件，看看 Listary 能让它们变得多方便。</p>
+<p>大家可以先下载试用体验这些产品，等 618 优惠活动再下单。</p>
+<p><img src="https://image.cubox.pro/article/2021072209205815430/20955.jpg" alt="" loading="lazy"><strong>Directory Opus</strong></p>
+<p>首先是功能强大的<strong>DO</strong>，这是一款可接管 Windows 资源管理器的第三方软件，双窗格显示，内置 FTP，与系统高度集成。</p>
+<ul>
+<li></li>
+</ul>
+<p>可以在 Listary 设置中勾选「启用 Listary、直接键入搜索、单击鼠标中键弹出菜单」三个选项，这样就可以在 DO 中使用 Listary 功能了。</p>
+<figure data-type="image" tabindex="2"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5fOV7FsDXKBbswMvm6ib4iaY07ExsOah7iat8RCFB2J6BFnnPxtxmSd7ibw%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<p>当使用 DO 浏览文件时，可以直接键入想要搜索的内容，就能替代 DO 自身的搜索，调用 Listary 搜索全盘文件，且打开文件位置也会在 DO 中完成。</p>
+<figure data-type="image" tabindex="3"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe57wbUHEYFjyItqLrNe0iaqiaO91BiaIH1pyrzUdr8lgg567mibVS7yvuhibw%2F640%3Fwx_fmt%3Dgif" alt="" loading="lazy"></figure>
+<p>如果你已经设置了 DO 替代系统资源管理器，在任意位置双击 Ctrl 搜索并打开所在文件夹时，也能够直接使用 DO 打开，真正做到全替代不间断。</p>
+<figure data-type="image" tabindex="4"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5BTK84arquibkZIYhCFzVicibwQf5615KJpTReBfpEoN1IPrVXj7nb4VuA%2F640%3Fwx_fmt%3Dgif" alt="" loading="lazy"></figure>
+<p>被众多网友喜爱的 Ctrl + G，在使用 DO 时同样适用。当保存或上传文件时，Ctrl + G 同样可以跳转至 DO 当前选中的窗格路径。</p>
+<figure data-type="image" tabindex="5"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5QOXYepKujjF2pc3rJNfdIy4c8kicnDKx6AkqPpSv59yEib7zTVTlMlUw%2F640%3Fwx_fmt%3Dgif" alt="" loading="lazy"></figure>
+<p>在 DO 内同样支持鼠标中键弹出菜单面板，点击收藏目录也能直接在 DO 中查看。</p>
+<figure data-type="image" tabindex="6"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5nsBicZxoDUXv4awQicACatqicl9dln1SGJ91AxnMDMIfFHBeKe7I01LyA%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://image.cubox.pro/article/2021072209205830443/67233.jpg" alt="" loading="lazy"></figure>
+<p>08￥M3Z22kGuCiJ￥ https://m.tb.cn/h.fHZkZ4m 电脑直接访问链接，手机复制本段所有内容</p>
+<p><img src="https://image.cubox.pro/article/2021072209205884322/86579.jpg" alt="" loading="lazy"><strong>XYplorer</strong></p>
+<p>和 DO 类似的，还有一款第三方文件管理器 <strong>XYplorer</strong>，能像浏览器一样多标签切换文件夹，支持多标签颜色标注，可使用脚本等。同样支持 Listary 集成。</p>
+<ul>
+<li></li>
+</ul>
+<p>但不能直接输入搜索，需要在 XYplorer 内双击 Ctrl 调用搜索。</p>
+<figure data-type="image" tabindex="8"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5M4Irp4IDyuSF4ibSlT697B2m1hSlrCrqCa70mgs04RVGc9ELiaX95pOg%2F640%3Fwx_fmt%3Dgif" alt="" loading="lazy"></figure>
+<ul>
+<li></li>
+</ul>
+<p>支持中键弹出 Listary 的菜单面板，可以收藏文件夹、快速转到、执行动作等。</p>
+<figure data-type="image" tabindex="9"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_gif%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5HGbwXqJ5v6LicS0kmLqjJAu2C2fgvbUnAwL5qTr9UtWMEnva7ANS0KA%2F640%3Fwx_fmt%3Dgif" alt="" loading="lazy"></figure>
+<p>在 XYplorer 中，Ctrl + G 同样支持，可以快速跳转至当前选中的窗格路径。</p>
+<figure data-type="image" tabindex="10"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5rcL81xnDnvNgjufB8EvAS1C1U46dv0QELAEFplCquGAh0sgjRN5cow%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://image.cubox.pro/article/2021072209205830443/67233.jpg" alt="" loading="lazy"></figure>
+<p>79￥wLH32kGGyb1￥ https://m.tb.cn/h.ftZ0wwx 电脑直接访问链接，手机复制本段所有内容</p>
+<p><img src="https://image.cubox.pro/article/2021072818070881673/41495.jpg" alt="" loading="lazy"><strong>Bandizip</strong></p>
+<p>最后是支持智能解压、快速拖放等功能的解压缩软件 <strong>Bandizip</strong>，也支持 Listary 集成。</p>
+<p>当打开压缩文件或选择解压路径时，在弹出窗口中都能看到 Listary 的工具条，可以搜索关键词转到或直接 Ctrl + G。</p>
+<figure data-type="image" tabindex="12"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5rhA3ibtVQSQOib9Y1FIOyaR3J3GcJ3IcVfnGOUH8jzpqs2xCwjIBQZdQ%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<p>让你的 Listary 搜索发挥最大作用，不必再为选择解压目录而发愁。</p>
+<figure data-type="image" tabindex="13"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5TPDqkY7gngBgicOvocibmI4NqMa7m2QIvz7CMHMyqW36oJibRPQByKYWA%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://image.cubox.pro/article/2021072209205830443/67233.jpg" alt="" loading="lazy"></figure>
+<p>79￥7c7B2kGEXOI￥ https://m.tb.cn/h.fsYZ2Ja 电脑直接访问链接，手机复制本段所有内容</p>
+<p>以上为大家简单介绍了数码荔枝在售的三款软件与 Listary 搭配使用的方法。</p>
+<p>在 DO、XY 这类第三方文件管理器中，可以像在系统资源管理器一样使用 Listary 搜索，而在Bandizip 则可以 Ctrl + G 快速转到。</p>
+<figure data-type="image" tabindex="15"><img src="https://cubox.pro/c/filters:no_upscale()?imageUrl=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FaFXaQ2oY6JCuibqYdAtzAgYoNSmUCYEe5W0vKuKtq4qiax2du6JhTcTfDPIDXXHdywUibwWibGPyCVib4RWzic8zvc9w%2F640%3Fwx_fmt%3Dpng" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="16"><img src="https://image.cubox.pro/article/2021072209205830443/67233.jpg" alt="" loading="lazy"></figure>
+<p>87￥quRt2kGtNiS￥ https://m.tb.cn/h.fHZ98HZ 电脑直接访问链接，手机复制本段所有内容</p>
+<p>强烈建议大家下载安装试用一下，等等618有惊喜！</p>
+<p>点击<strong>阅读原文</strong>，前往<strong>数码荔枝</strong>选购软件！</p>
+<hr>
+<figure data-type="image" tabindex="17"><img src="https://image.cubox.pro/article/2021072120513328898/83699.jpg" alt="" loading="lazy"></figure>
+<p>点「在看」，学到新玩法！</p>
+<figure data-type="image" tabindex="18"><img src="https://image.cubox.pro/article/2021072120513324633/87541.jpg" alt="" loading="lazy"></figure>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1NjU0MQ==&amp;mid=2247530875&amp;idx=1&amp;sn=e2c699c8252e8dfc21ad9240c1d78bc3&amp;chksm=f9920fa9cee586bf580a8a2e1ab856c528d9ba885f0d795176b36c06cc33ab59d3bbbc0fdf6e&amp;mpshare=1&amp;scene=1&amp;srcid=0520wDqu0brmn8fClfuQ3JER&amp;sharer_sharetime=1653048486788&amp;sharer_shareid=25b62bc711d855a76b4e0c7a5f957628#rd">查看原网页: mp.weixin.qq.com</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[番茄钟、全国天气、热搜榜……这个国产工具，让你的 Notion 好看又好用]]></title>
+        <id>https://oneideals.github.io/post/fan-qie-zhong-quan-guo-tian-qi-re-sou-bang-zhe-ge-guo-chan-gong-ju-rang-ni-de-notion-hao-kan-you-hao-yong/</id>
+        <link href="https://oneideals.github.io/post/fan-qie-zhong-quan-guo-tian-qi-re-sou-bang-zhe-ge-guo-chan-gong-ju-rang-ni-de-notion-hao-kan-you-hao-yong/">
+        </link>
+        <updated>2022-05-23T09:03:47.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247535291&amp;idx=1&amp;sn=1eb4cb11f3431361565767ee3c2f6a2e&amp;chksm=fdb3bfd1cac436c7aa67ab031e4a719c5415b1f57109eafc1b09234d48b705eecbbd7577b8c5&amp;mpshare=1&amp;scene=1&amp;srcid=0522C4nSyyiAzABuU2ekHrCL&amp;sharer_sharetime=1653187228353&amp;sharer_shareid=25b62bc711d855a76b4e0c7a5f957628#rd">mp.weixin.qq.com</a>Spike112 少数派</p>
+<p><strong>▍****引言</strong></p>
+<p>前段时间我发布了<a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247532279&amp;idx=1&amp;sn=46f7cedfbb5903d0c44bd11a0940ff2c&amp;chksm=fdb38b9dcac4028b4596436df437f5a50f4e0cd1c8c10c2b586fdc67b43b8a3d10f6f1e98351&amp;scene=21#wechat_redirect">《Notion 优质资源汇总》</a>，在这篇文章中，不少小伙伴反映了一个问题：这些面向 Notion 类产品的服务，几乎都是由国外开发者提供，有些产品虽然好但是需要付费，另外一些产品虽然是免费的，但是在大陆地区使用的话服务器又不够稳定。</p>
+<figure data-type="image" tabindex="1"><img src="https://image.cubox.pro/article/2021072110411535457/52956.jpg" alt="" loading="lazy"></figure>
+<p>有比较好的解决办法吗？比如推荐使用一些国产服务。在资源汇总这篇文章发布后，通过评论区的留言，我加上了Noto，这是 @吕立青_JimmyLv提供的建站服务。今天我介绍另外一个在评论区发现的、面向 Notion 类产品的服务——国产组件库 NotionPet。</p>
+<figure data-type="image" tabindex="2"><img src="https://image.cubox.pro/article/2022052113404896674/15233.jpg" alt="" loading="lazy"></figure>
+<p>很多用户可能对小组件并不陌生，这当中最为常见的便是智能手机等移动设备的桌面，Android 和 iOS 已经先后支持了小组件。小组件，英文为 Widget Extension，主要以图形化展示的可视化模块，让用户想要了解的信息触手可及。</p>
+<p>与此类似的，借助NotionPet，可以让Notion、FlowUs等服务的用户，在笔记软件内部嵌入可视化模块，建立强大的仪表盘。</p>
+<p>现在让我们一起走进国产小组件库 NotionPet。</p>
+<p><strong>▍****初识 NotionPet</strong></p>
+<p>从 https://notion.pet/ 进入便可以看到官网介绍。这个站点的主要功能，便是为 Notion 等产品提供好看、强大、可定制的小组件。</p>
+<figure data-type="image" tabindex="3"><img src="https://image.cubox.pro/article/2022052113404866628/60430.jpg" alt="" loading="lazy"></figure>
+<p>NotionPet 目前允许新用户通过电子邮箱注册账号，或者可以直接微信扫码登录。随后我们就可以进入主页了。</p>
+<figure data-type="image" tabindex="4"><img src="https://image.cubox.pro/article/2022052113404818112/39701.jpg" alt="" loading="lazy"></figure>
+<p>在这里，我们自己所创建的小组件可以在页面上方查看，页面下方则是官方的小组件市场。</p>
+<figure data-type="image" tabindex="5"><img src="https://image.cubox.pro/article/2022052113404866961/82643.jpg" alt="" loading="lazy"></figure>
+<p>NotionPet 的小组件包括两种：基础组件和动态 Icon 组件。</p>
+<p><strong>基础组件</strong>：NotionPet 目前提供了 21 个基础组件，包括动效文字、极简番茄钟、年度格子、生命倒计时、扁平时钟、访客统计、环形多彩时钟、中国天气组件、词霸每日一句英语、页面访客点赞、荧光关注引导、简约生日倒计时、微博热搜排行榜、恋爱纪念、哔哩哔哩粉丝看板、打卡计数、节假日倒计时。</p>
+<figure data-type="image" tabindex="6"><img src="https://image.cubox.pro/article/2022052113404836510/56475.jpg" alt="" loading="lazy"></figure>
+<p><strong>动态 Icon 组件</strong>：目前动态 Icon 组件支持动态日历和 NotionPet 文字。</p>
+<figure data-type="image" tabindex="7"><img src="https://image.cubox.pro/article/2022052113404885963/88109.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://image.cubox.pro/article/2022052113404880553/14416.jpg" alt="" loading="lazy"></figure>
+<p><strong>▍****小组件使用方式</strong></p>
+<p>NotionPet 的使用方法十分简单。具体流程如下：</p>
+<p>首先，在小组件市场浏览并选择你想要创建的小组件类型。随后，将光标悬浮在该小组件之上，点击创建组件。</p>
+<figure data-type="image" tabindex="9"><img src="https://image.cubox.pro/article/2022052113404892440/93834.jpg" alt="" loading="lazy"></figure>
+<p>创建组件之后便直接进入了组件配置界面。如图，在配置页面左上角，你可以对小组件的标题进行设置。配置包括两种：一种是组件设置，主要设置组件内容中的文字内容、文字颜色、日期、数字等基础信息。</p>
+<figure data-type="image" tabindex="10"><img src="https://image.cubox.pro/article/2022052113404842479/72633.jpg" alt="" loading="lazy"></figure>
+<p>另外一种是公共配置，主要是配置小组件的外观显示效果，包括是否浅色和深色模式的选择以及对应的自定义容器背景的颜色配置。</p>
+<figure data-type="image" tabindex="11"><img src="https://image.cubox.pro/article/2022052113404879223/92529.jpg" alt="" loading="lazy"></figure>
+<p>在配置完成后，在左下角复制链接，然后粘贴至你正在使用的 Notion 类笔记软件中，选择 「Embed/嵌入显示」即可。</p>
+<p><strong>▍****小组件使用场景</strong></p>
+<p>由于我正在使用支持文件夹页面、原生应用开发的FlowUs. 下面我将以 FlowUs 为例，演示如何小组件的使用场景。</p>
+<figure data-type="image" tabindex="12"><img src="https://image.cubox.pro/article/2022052113404859046/85109.jpg" alt="" loading="lazy"></figure>
+<p>FlowUs</p>
+<p><strong>01</strong> <strong>时间管理 &amp; 任务管理</strong></p>
+<p>目前小组件主要属于时间管理、任务管理类。具体来说，我将其分为如下几个细分类别：</p>
+<ul>
+<li>
+<p><strong>时钟类</strong>：极简番茄钟、环形多彩时钟；</p>
+</li>
+<li>
+<p>日期提醒类：生命倒计时、年度格子、节假日倒计时、恋爱纪念日、简约生日倒计时；</p>
+</li>
+<li>
+<p><strong>天气类</strong>：基础中国天气类；</p>
+</li>
+<li>
+<p><strong>打卡类</strong>：今天喝水数量。</p>
+</li>
+</ul>
+<p>我使用这些小组件做了一个主页仪表盘，如图。为了紧凑，我将这些小组件集中在同一个页面了。你可以根据需要，选用合适的小组件。</p>
+<figure data-type="image" tabindex="13"><img src="https://image.cubox.pro/article/2022052113404876308/70582.jpg" alt="" loading="lazy"></figure>
+<p>仪表盘·模版</p>
+<p>图中使用了动态日历。最好的办法是直接将链接上传至 icon / 图标处。Notion 支持此功能。FlowUs 近期会上线此功能。</p>
+<figure data-type="image" tabindex="14"><img src="https://image.cubox.pro/article/2022052113404895691/47999.jpg" alt="" loading="lazy"></figure>
+<p>仪表盘·模版</p>
+<p>****02<strong>自媒体运营</strong></p>
+<p>此类小组件有多个，主要为：动效文字、哔哩哔哩粉丝看板、页面访客点赞、荧光关注引导、访客统计。具体显示效果如图。</p>
+<p>其中，荧光关注引导目前支持哔哩哔哩、Twitter、Github、Notion 等四个站点。前两行为动效文字、哔哩哔哩粉丝看板、访客统计，作为对于读者的欢迎区域；中间为博客内容。最下方左边为荧光关注引导，右边为页面访客点赞。</p>
+<figure data-type="image" tabindex="15"><img src="https://image.cubox.pro/article/2022052113404816623/55669.jpg" alt="" loading="lazy"></figure>
+<p><strong><strong><strong>03</strong></strong>资讯管理类</strong></p>
+<p>此类小组件目前只有一个：微博热搜排行榜。</p>
+<figure data-type="image" tabindex="16"><img src="https://image.cubox.pro/article/2022052113404856883/96791.jpg" alt="" loading="lazy"></figure>
+<p>这种类型的小组件还是比较有用的，可以作为轻量级的阅读看板。现在的问题是，热搜排行榜的类型比较少，只有微博。如果能加入少数派、知乎、澎湃新闻、豆瓣、虎嗅网、36kr、哔哩哔哩等热门站点的热搜排行版就好了。</p>
+<p>开发者不妨参考国内聚焦于热搜排行榜的产品——今日热榜。</p>
+<figure data-type="image" tabindex="17"><img src="https://image.cubox.pro/article/2022052113404813642/13447.jpg" alt="" loading="lazy"></figure>
+<p><strong><strong><strong>04</strong></strong>学习类</strong></p>
+<p>此类小组件目前只有一个：词霸每日英语。</p>
+<figure data-type="image" tabindex="18"><img src="https://image.cubox.pro/article/2022052113404878825/66762.jpg" alt="" loading="lazy"></figure>
+<p>以上是每日一词组件的显示效果。当然，单纯将这个组件放在一个页面中没有意义。每日一词小组件，最好放在你笔记软件的主页所在的仪表盘中，方便你每次打开查看几眼。或者，如果你正在学习英语，也可以放在相关笔记内容的首页处。</p>
+<p><strong>▍****价格体系</strong></p>
+<p>NotionPet 区分为基础版和 Pro 版，其中基础版是对组件创建个数、组件创建类型存在限制。基础版提供创建 2 个基础组件和 3 个动态动态图标的数量，如果需要解除这些限制，则需要升级为 Pro 版。目前还不存在需要付费的高级组件类型，未来开发者可能会增加几个 Pro 组件。</p>
+<figure data-type="image" tabindex="19"><img src="https://image.cubox.pro/article/2022052113404824399/29222.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="20"><img src="https://image.cubox.pro/article/2022052113404856619/79439.jpg" alt="" loading="lazy"></figure>
+<p>NotionPet 采取了订阅制。目前价格体系是：</p>
+<ul>
+<li>
+<p>3 个月 Pro：9.9 元</p>
+</li>
+<li>
+<p>1 年 Pro：36 元</p>
+</li>
+<li>
+<p>2 年 Pro：70 元</p>
+</li>
+<li>
+<p>3 年 Pro：99 元</p>
+</li>
+</ul>
+<p>目前，NotionPet 官方正在活动期间，1 年 Pro 价格为 19.9/年。如果对这个国产组件库所提供的服务感兴趣，可以前往体验。</p>
+<p>注：官方的折扣是通过领券的形式实现的，在官网https://notion.pet/注册登录，随后优惠券便会自动弹出，领取即可。</p>
+<p>如果NotionPet中没有你想要的小组件，也可以点击页面右上角加入社群，或者点击右下角对话窗口，直接向开发者反馈。</p>
+<p><strong>▍****结语</strong></p>
+<p>以上便是关于 NotionPet 的简要介绍。未来NotionPet 的发展方向如下：</p>
+<ol>
+<li>
+<p>提供更多好看且实用的小组件</p>
+</li>
+<li>
+<p>赋予小组件更为强大的定制化能力，满足用户的个性化需求</p>
+</li>
+<li>
+<p>支持与第三方开发者共建社区生态</p>
+</li>
+<li>
+<p>服务于更多的 Notion 类产品</p>
+</li>
+</ol>
+<p>目前，官方已经将 Notion、FlowUs、Wolai 这三款产品加入官网相关链接。既然如此，随着 NotionPet 的发展也建议改个名，以便服务于更多产品所在的用户群体。</p>
+<p>原文链接：</p>
+<p>https://sspai.com/post/73211?utm_source=wechat&amp;utm_medium=social</p>
+<p>作者：Spike112-</p>
+<p>责编：垓下乐评人克莱德</p>
+<p><strong><strong><strong>/<strong><strong>更多热门文章</strong></strong>/</strong></strong></strong></p>
+<figure data-type="image" tabindex="21"><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247535255&amp;idx=1&amp;sn=31606028f388a12ad37b3121b6c36e51&amp;chksm=fdb3bffdcac436ebc365c17b4bfe1e9f59888e3e60d44ea3b2647b49712f4c277a87ee997b52&amp;scene=21#wechat_redirect"><img src="https://image.cubox.pro/article/2022052113404862823/97612.jpg" alt="" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="22"><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247535167&amp;idx=1&amp;sn=94ff5f5a4bc4de310aea7b2221116b48&amp;chksm=fdb3bf55cac436439f4bb46456c54c15276a861d4094a92d9e37b8415f1c9b9388987fff7694&amp;scene=21#wechat_redirect"><img src="https://image.cubox.pro/article/2022052015085319279/53884.jpg" alt="" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="23"><img src="https://image.cubox.pro/article/2021070814074927049/55713.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="24"><img src="https://image.cubox.pro/article/2021071720232113863/81460.jpg" alt="" loading="lazy"></figure>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&amp;mid=2247535291&amp;idx=1&amp;sn=1eb4cb11f3431361565767ee3c2f6a2e&amp;chksm=fdb3bfd1cac436c7aa67ab031e4a719c5415b1f57109eafc1b09234d48b705eecbbd7577b8c5&amp;mpshare=1&amp;scene=1&amp;srcid=0522C4nSyyiAzABuU2ekHrCL&amp;sharer_sharetime=1653187228353&amp;sharer_shareid=25b62bc711d855a76b4e0c7a5f957628#rd">查看原网页: mp.weixin.qq.com</a></p>
+]]></content>
+    </entry>
+</feed>
